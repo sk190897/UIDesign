@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIDesign</string>
+    <string name="title_home">HOME</string>
+    <string name="title_tests">TESTS</string>
+    <string name="title_analysis">ANALYSIS</string>
+    <string name="title_doubts">DOUBTS</string>
+    <string name="title_profile">PROFILE</string>
+    <string name="title_subjects">Subjects</string>
+    <string name="text_layout">Your free trail expired on 29 Jan 2019 please upgrade now to get all access.</string>
+
+</resources>

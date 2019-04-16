@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_image"
+        android:title="@string/title_home"
+
+        />
+
+    <item
+        android:id="@+id/navigation_tests"
+        android:icon="@drawable/test_image"
+        android:title="@string/title_tests" />
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@drawable/analysis_image"
+        android:title="@string/title_analysis"/>
+
+    <item
+        android:id="@+id/navigation_doubts"
+        android:icon="@drawable/doubts_image"
+        android:title="@string/title_doubts"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile_image"
+        android:title="@string/title_profile"/>
+
+
+</menu>
